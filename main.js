@@ -10,8 +10,8 @@ let win,dimension, bgColor,frame;
 function createWindow() {
     win = new BrowserWindow();
     dimension = new BrowserWindow({width:500, height:500, maxWidth:700});
-    win = new BrowserWindow({backgroundColor:'#220022'});
-    win = new BrowserWindow({backgroundColor:'#800800', frame:true});
+    win = new BrowserWindow({backgroundColor:'#f90f90'});
+    win = new BrowserWindow({backgroundColor:'#f60f60', frame:true});
     win.on('closed', ()=>{
         win = null;
     })

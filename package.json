@@ -1,6 +1,6 @@
 {
     "name": "project_browser_win",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "main.js",
     "devDependencies": {
         "electron": "^2.0.5",
