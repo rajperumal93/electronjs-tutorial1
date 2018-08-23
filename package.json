@@ -10,6 +10,7 @@
         "start": "electron .",
         "dist": "build"
     },
+    "repository": "https://github.com/rajperumal93/electronjs-tutorial1",
     "build": {
     "appId": "browserwindow",
     "win": {
